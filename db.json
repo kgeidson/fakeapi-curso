@@ -1,8 +1,11 @@
 {
-  "bitcoin": {
+  "bitcoin": [
     {"id": 1, "preco": 2, "tipo": "cripto", "nome": "bitcoin"},
     {"id": 2, "preco": 5, "tipo": "cripto", "nome": "etherium"},
     {"id": 3, "preco": 25, "tipo": "cripto", "nome": "dogcoin"},
     {"id": 4, "preco": 32, "tipo": "cripto", "nome": "memecoin"},
-  }  
+  ],
+  "empresa": {
+    "nome": "Code GKAL"
+  }
 }
