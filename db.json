@@ -1,5 +1,5 @@
 {
-  "bitcoins": [
+  "bitcoin": [
     { "id": 1, "preco": "10", "tipo": "cripto", "nome": "bitcoin" },
     { "id": 2, "preco": "30", "tipo": "cripto", "nome": "etherium" },
     { "id": 3, "preco": "40", "tipo": "cripto", "nome": "memecoin" },
