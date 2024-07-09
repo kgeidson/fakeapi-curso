@@ -1,6 +1,8 @@
 {
-  { "id": 1, "preco": "10", "tipo": "cripto", "nome": "bitcoin" },
-  { "id": 2, "preco": "30", "tipo": "cripto", "nome": "etherium" },
-  { "id": 3, "preco": "40", "tipo": "criptp", "nome": "memecoin" },
-  { "id": 4, "preco": "50", "tipo": "cripto", "nome": "godcoin" }
+  "bitcoin": [
+    { "id": 1, "preco": "10", "tipo": "cripto", "nome": "bitcoin" },
+    { "id": 2, "preco": "30", "tipo": "cripto", "nome": "etherium" },
+    { "id": 3, "preco": "40", "tipo": "cripto", "nome": "memecoin" },
+    { "id": 4, "preco": "50", "tipo": "cripto", "nome": "godcoin" }
+  ]
 }
