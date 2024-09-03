@@ -1,10 +1,9 @@
-{
-  "usuarios": [
-      {"usuario": "geidson", "password": 123456},
-      {"usuario": "tatianne", "password": 654321},
-      {"usuario": "victor", "password": 123456},
-      {"usuario": "miguel", "password": 876987},
-      {"usuario": "marcos", "password": 192344},
-      {"usuario": "tiago", "password": 5445112}
-  ]    
-}
+"usuarios": [
+    {"usuario": "geidson", "password": 123456},
+    {"usuario": "tatianne", "password": 654321},
+    {"usuario": "victor", "password": 123456},
+    {"usuario": "miguel", "password": 876987},
+    {"usuario": "marcos", "password": 192344},
+    {"usuario": "tiago", "password": 544511},
+    {"usuario": "maria", "password": 456987}
+]
